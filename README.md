@@ -5,7 +5,7 @@
          width="45" />, I'm Jaswanth Suggula</h1>
 <h3 align="center">Currently working as a SDET at Moneyview...</h3>
 
-<p align="center"><img align="center" height="200" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<p align="center"><img align="center" height="200" width="300" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" /></p>
 
 ## 🛠 Skills
 Software development, Automation, DevOps processes, Behavior-driven development and Object-oriented design,Testing frameworks and similar tools like Unit test, TestNG, Selenium WebDriver and more, Proficiency in using performance testing tools to discover thresholds and bottlenecks in existing code.
