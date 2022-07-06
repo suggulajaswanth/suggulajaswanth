@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Suggula Jaswanth</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Jaswanth Suggula</h1>
 <h3 align="center">Currently working as a SDET at Moneyview...</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suggulajaswanth&label=Profile%20views&color=0e75b6&style=flat" alt="suggulajaswanth" /> </p>
+<p align="center"><img align="center" height="200" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 
 ## 🛠 Skills
 Software development, Automation, DevOps processes, Behavior-driven development and Object-oriented design,Testing frameworks and similar tools like Unit test, TestNG, Selenium WebDriver and more, Proficiency in using performance testing tools to discover thresholds and bottlenecks in existing code.
@@ -21,6 +24,10 @@ Software development, Automation, DevOps processes, Behavior-driven development 
 <a href="https://www.hackerrank.com/AP18110010104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaswanth suggula" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suggulajaswanth&" alt="suggulajaswanth" /></p>
+<p><img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=suggulajaswanth&theme=radical">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=suggulajaswanth&count_private=true&theme=radical&show_icons=true" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suggulajaswanth&label=Profile%20views&color=0e75b6&style=flat" alt="suggulajaswanth" /> </p>
+
 
 
